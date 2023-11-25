@@ -28,11 +28,11 @@ const siteProps = {
   title: "Student Ambassador at Microsoft | Sun Yat-sen University CS-Sophomore",
   email: "raojsh@mail2.sysu.edu.cn",
   gitHub: "JasonW41k3r",
-  instagram: "jason_rjs",
+  instagram: "rjs_jason",
   linkedIn: "jason-rao-028b2226b",
   medium: "",
   twitter: "jason_rjs",
-  youTube: "Code",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
