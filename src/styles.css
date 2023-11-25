@@ -2,6 +2,7 @@
 * CSS file to hold styles that apply across the application
 */
 
+
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap");
 
 html,
@@ -123,4 +124,15 @@ a:hover {
 img.socialIcon {
   height: 30px;
   width: 30px;
+}
+/* add a slide in animation */
+@keyframes slideIn {
+  0% {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
